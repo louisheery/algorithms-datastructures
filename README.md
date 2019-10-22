@@ -6,14 +6,14 @@
 Solutions to Algorithms & Data Structures Questions on HackerRank and similar sites
 
 ## HackerRank Interview Prep
-### [Warm-up Challenges](warm-up-challenges)
-- [Sock Merchant](warm-up-challenges/sockmerchant.py)
-- [Repeated String](repeated-string.py)
-- [Jumping on the Clouds](jumping-on-clouds.py)
-- [Counting Valleys](counting-valleys.py)
+### [Warm-up Challenges](hackerrank-interview-prep/warm-up-challenges)
+- [Sock Merchant](hackerrank-interview-prep/warm-up-challenges/sockmerchant.py)
+- [Repeated String](hackerrank-interview-prep/repeated-string.py)
+- [Jumping on the Clouds](hackerrank-interview-prep/jumping-on-clouds.py)
+- [Counting Valleys](hackerrank-interview-prep/counting-valleys.py)
 
-### [Arrays](arrays)
-- [2D Array Hourglass](2d-array.py)
+### [Arrays](hackerrank-interview-prep/arrays)
+- [2D Array Hourglass](hackerrank-interview-prep/2d-array.py)
 
 
 ##
