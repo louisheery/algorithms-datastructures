@@ -16,5 +16,15 @@ Solutions to Algorithms & Data Structures Questions on HackerRank and similar si
 - [2D Array Hourglass](hackerrank-interview-prep/arrays/2d-array.py)
 
 
+### [Dictionaries and Hashmaps](hackerrank-interview-prep/dictionaries-hashmaps)
+- [Two Strings](hackerrank-interview-prep/dictionaries-hashmaps/two-strings.py)
+- [Ransom Note Hashmap](hackerrank-interview-prep/dictionaries-hashmaps/ransom-note-hashmap.py)
+
+
+### [Sorting Algorithms](hackerrank-interview-prep/sorting)
+- [Bubble Sort](hackerrank-interview-prep/sorting/bubble-sort.py)
+- [Mark and Toys Sorting](hackerrank-interview-prep/sorting/mark-and-toys.py)
+
+
 ##
 *Note: Code will continuously be added over time.*
