@@ -14,6 +14,8 @@ Solutions to Algorithms & Data Structures Questions on HackerRank and similar si
 
 ### [Arrays](hackerrank-interview-prep/arrays)
 - [2D Array Hourglass](hackerrank-interview-prep/arrays/2d-array.py)
+- [Array Left Rotation](hackerrank-interview-prep/arrays/array-left-rotation.py)
+- [Array Manipulation](hackerrank-interview-prep/arrays/array-manipulation.py)
 
 
 ### [Dictionaries and Hashmaps](hackerrank-interview-prep/dictionaries-hashmaps)
