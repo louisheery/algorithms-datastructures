@@ -21,11 +21,18 @@ Solutions to Algorithms & Data Structures Questions on HackerRank and similar si
 ### [Dictionaries and Hashmaps](hackerrank-interview-prep/dictionaries-hashmaps)
 - [Two Strings](hackerrank-interview-prep/dictionaries-hashmaps/two-strings.py)
 - [Ransom Note Hashmap](hackerrank-interview-prep/dictionaries-hashmaps/ransom-note-hashmap.py)
+- [Frequency Queries](hackerrank-interview-prep/dictionaries-hashmaps/frequency-queries.py)
+- [Count Triplets](hackerrank-interview-prep/dictionaries-hashmaps/count-triplets.py)
 
 
 ### [Sorting Algorithms](hackerrank-interview-prep/sorting)
 - [Bubble Sort](hackerrank-interview-prep/sorting/bubble-sort.py)
 - [Mark and Toys Sorting](hackerrank-interview-prep/sorting/mark-and-toys.py)
+
+### [String Manipulation](hackerrank-interview-prep/string-manipulation)
+- [Alternative Characters](hackerrank-interview-prep/string-manipulation/alternative-characters.py)
+- [Making Anagrams](hackerrank-interview-prep/string-manipulation/making-anagrams.py)
+- [Sherlock Valid String](hackerrank-interview-prep/string-manipulation/sherlock-valid-string.py)
 
 
 ##
