@@ -34,6 +34,9 @@ Solutions to Algorithms & Data Structures Questions on HackerRank and similar si
 - [Making Anagrams](hackerrank-interview-prep/string-manipulation/making-anagrams.py)
 - [Sherlock Valid String](hackerrank-interview-prep/string-manipulation/sherlock-valid-string.py)
 
+<!---
+## [HackerRank Databases & SQL](hackerrank-databases)
+--->
 
 ##
 *Note: Code will continuously be added over time.*
