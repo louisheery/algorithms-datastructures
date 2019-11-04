@@ -29,9 +29,6 @@ WHERE COUNTRYCODE = "JPN";
 SELECT CITY, STATE FROM STATION
 
 -- Weather Observation Station 3
-//
-
--- Weather Observation Station 3
 SELECT DISTINCT CITY FROM STATION
 WHERE ID%2 = 0
 
