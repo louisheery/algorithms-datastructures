@@ -35,7 +35,7 @@ Solutions to Algorithms & Data Structures Questions on HackerRank and similar si
 - [Sherlock Valid String](hackerrank-interview-prep/string-manipulation/sherlock-valid-string.py)
 
 
-## [HackerRank Databases & SQL](hackerrank-databases)
+## HackerRank Databases & SQL
 - [Basic Select Problems](hackerrank-databases/basic-select.sql)
 - [Basic Join Problems](hackerrank-databases/basic-join.sql)
 - [Aggregation Problems](hackerrank-databases/aggregation.sql)
