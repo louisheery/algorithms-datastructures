@@ -1,6 +1,7 @@
 # Algorithms & Data Structures
 
 [![Build Status](https://img.shields.io/badge/Python-3-blue)](https://github.com/louisheery/algorithms-datastructures)
+[![Build Status](https://img.shields.io/badge/SQL-mySQL-brown)](https://github.com/louisheery/algorithms-datastructures)
 [![Build Status](https://img.shields.io/badge/build_status-in_progress-orange)](https://github.com/louisheery/algorithms-datastructures)
 
 Solutions to Algorithms & Data Structures Questions on HackerRank and similar sites
