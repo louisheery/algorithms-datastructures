@@ -4,7 +4,7 @@
 [![Build Status](https://img.shields.io/badge/SQL-mySQL-brown)](https://github.com/louisheery/algorithms-datastructures)
 [![Build Status](https://img.shields.io/badge/build_status-in_progress-orange)](https://github.com/louisheery/algorithms-datastructures)
 
-Solutions to Algorithms & Data Structures Questions on HackerRank and similar sites
+Solutions to Algorithms & Data Structures Questions on HackerRank and similar sites.
 
 ## HackerRank Interview Prep
 ### [Warm-up Challenges](hackerrank-interview-prep/warm-up-challenges)
