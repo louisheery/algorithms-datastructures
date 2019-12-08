@@ -27,10 +27,6 @@ def countTriplets(arr, r):
 
         countDoubletPotentials[(arr[i] * r)] += 1 # Add the required 2nd value to be found to make a Doublet, i.e. counter of Doublet potentials.
 
-
-
-
-
     return counter
 
 if __name__ == '__main__':
